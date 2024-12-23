@@ -1,0 +1,161 @@
+[20:51:12] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
+[20:51:13] [main/INFO]: Loading 45 mods:
+	- fabric-api 0.92.2+1.20.1
+	   |-- fabric-api-base 0.4.31+1802ada577
+	   |-- fabric-api-lookup-api-v1 1.6.36+1802ada577
+	   |-- fabric-biome-api-v1 13.0.13+1802ada577
+	   |-- fabric-block-api-v1 1.0.11+1802ada577
+	   |-- fabric-block-view-api-v2 1.0.1+1802ada577
+	   |-- fabric-blockrenderlayer-v1 1.1.41+1802ada577
+	   |-- fabric-client-tags-api-v1 1.1.2+1802ada577
+	   |-- fabric-command-api-v1 1.2.34+f71b366f77
+	   |-- fabric-command-api-v2 2.2.13+1802ada577
+	   |-- fabric-commands-v0 0.2.51+df3654b377
+	   |-- fabric-containers-v0 0.1.64+df3654b377
+	   |-- fabric-content-registries-v0 4.0.11+1802ada577
+	   |-- fabric-convention-tags-v1 1.5.5+1802ada577
+	   |-- fabric-crash-report-info-v1 0.2.19+1802ada577
+	   |-- fabric-data-attachment-api-v1 1.0.0+de0fd6d177
+	   |-- fabric-data-generation-api-v1 12.3.4+1802ada577
+	   |-- fabric-dimensions-v1 2.1.54+1802ada577
+	   |-- fabric-entity-events-v1 1.6.0+1c78457f77
+	   |-- fabric-events-interaction-v0 0.6.2+1802ada577
+	   |-- fabric-events-lifecycle-v0 0.2.63+df3654b377
+	   |-- fabric-game-rule-api-v1 1.0.40+1802ada577
+	   |-- fabric-item-api-v1 2.1.28+1802ada577
+	   |-- fabric-item-group-api-v1 4.0.12+1802ada577
+	   |-- fabric-key-binding-api-v1 1.0.37+1802ada577
+	   |-- fabric-keybindings-v0 0.2.35+df3654b377
+	   |-- fabric-lifecycle-events-v1 2.2.22+1802ada577
+	   |-- fabric-loot-api-v2 1.2.1+1802ada577
+	   |-- fabric-loot-tables-v1 1.1.45+9e7660c677
+	   |-- fabric-message-api-v1 5.1.9+1802ada577
+	   |-- fabric-mining-level-api-v1 2.1.50+1802ada577
+	   |-- fabric-model-loading-api-v1 1.0.3+1802ada577
+	   |-- fabric-models-v0 0.4.2+9386d8a777
+	   |-- fabric-networking-api-v1 1.3.11+1802ada577
+	   |-- fabric-networking-v0 0.3.51+df3654b377
+	   |-- fabric-object-builder-api-v1 11.1.3+1802ada577
+	   |-- fabric-particles-v1 1.1.2+1802ada577
+	   |-- fabric-recipe-api-v1 1.0.21+1802ada577
+	   |-- fabric-registry-sync-v0 2.3.3+1802ada577
+	   |-- fabric-renderer-api-v1 3.2.1+1802ada577
+	   |-- fabric-renderer-indigo 1.5.2+85287f9f77
+	   |-- fabric-renderer-registries-v1 3.2.46+df3654b377
+	   |-- fabric-rendering-data-attachment-v1 0.3.37+92a0d36777
+	   |-- fabric-rendering-fluids-v1 3.0.28+1802ada577
+	   |-- fabric-rendering-v0 1.1.49+df3654b377
+	   |-- fabric-rendering-v1 3.0.8+1802ada577
+	   |-- fabric-resource-conditions-api-v1 2.3.8+1802ada577
+	   |-- fabric-resource-loader-v0 0.11.10+1802ada577
+	   |-- fabric-screen-api-v1 2.0.8+1802ada577
+	   |-- fabric-screen-handler-api-v1 1.3.30+1802ada577
+	   |-- fabric-sound-api-v1 1.0.13+1802ada577
+	   |-- fabric-transfer-api-v1 3.3.5+8dd72ea377
+	   \-- fabric-transitive-access-wideners-v1 4.3.1+1802ada577
+	- fabricloader 0.16.3
+	   \-- mixinextras 0.4.1
+	- java 17
+	- lucky 1.20.1-13.0
+	- minecraft 1.20.1
+[20:51:13] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/luckyblocks/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[20:51:14] [main/INFO]: Compatibility level set to JAVA_16
+[20:51:14] [main/INFO]: Compatibility level set to JAVA_17
+[20:51:16] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[20:51:34] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:51:40] [main/INFO]: Loaded 7 recipes
+[20:51:41] [main/INFO]: Loaded 1271 advancements
+[20:51:42] [main/INFO]: Applied 64 biome modifications to 64 of 64 new biomes in 22.71 ms
+[20:51:42] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[20:51:42] [Server thread/INFO]: Loading properties
+[20:51:42] [Server thread/INFO]: Default game type: SURVIVAL
+[20:51:42] [Server thread/INFO]: Generating keypair
+[20:51:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:51:42] [Server thread/INFO]: Using epoll channel type
+[20:51:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:51:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:51:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:51:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:51:43] [Server thread/INFO]: Preparing level "world"
+[20:51:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:51:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:51:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:51:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:51:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:51:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:51:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:51:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:51:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:51:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:51:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:51:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:51:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:51:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:51:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:51:51] [Server thread/INFO]: Time elapsed: 7341 ms
+[20:51:51] [Server thread/INFO]: Done (8.115s)! For help, type "help"
+[20:51:52] [Server thread/INFO]: Gabi0559[/127.179.223.86:55039] logged in with entity id 43 at (0.5, 164.0, 0.5)
+[20:51:52] [Server thread/INFO]: Gabi0559 joined the game
+[20:52:00] [Server thread/INFO]: MoldMai[/127.149.195.50:51409] logged in with entity id 44 at (-0.5839490857912489, 163.9375, -33.823234555482294)
+[20:52:01] [Server thread/INFO]: MoldMai joined the game
+[20:52:26] [Server thread/INFO]: [Not Secure] <MoldMai> EEEEE
+[20:52:31] [Server thread/INFO]: [Not Secure] <Gabi0559> ola
+[20:52:50] [Server thread/INFO]: [Not Secure] <MoldMai> porque te veo como negra boliviana
+[20:52:56] [Server thread/INFO]: [Not Secure] <Gabi0559> nose yo te veo bien
+[20:53:28] [Server thread/INFO]: [Not Secure] <MoldMai> ta usando sk?
+[20:53:32] [Server thread/INFO]: [Not Secure] <Gabi0559> si
+[20:53:36] [Server thread/INFO]: [Not Secure] <Gabi0559> sino no te veria..
+[20:53:36] [Server thread/INFO]: MoldMai lost connection: Disconnected
+[20:53:36] [Server thread/INFO]: MoldMai left the game
+[20:53:42] [Server thread/INFO]: MoldMai[/127.149.195.50:38583] logged in with entity id 60 at (-11.90710265945457, 164.0, -42.64859868612397)
+[20:53:42] [Server thread/INFO]: MoldMai joined the game
+[20:53:59] [Server thread/INFO]: cr1mzu[/127.61.56.130:51339] logged in with entity id 61 at (0.5, 164.0, 0.5)
+[20:53:59] [Server thread/INFO]: cr1mzu joined the game
+[20:54:09] [Server thread/INFO]: [Not Secure] <Gabi0559> OLA
+[20:54:13] [Server thread/INFO]: [Not Secure] <MoldMai> porque los veo sin skin wtf
+[20:54:14] [Server thread/INFO]: [Not Secure] <cr1mzu> ola
+[20:54:18] [Server thread/INFO]: [Not Secure] <Gabi0559> me ves la skin crin
+[20:54:25] [Server thread/INFO]: [Not Secure] <cr1mzu> yo los veo bien
+[20:54:27] [Server thread/INFO]: [Not Secure] <Gabi0559> x2
+[20:54:46] [Server thread/INFO]: [Not Secure] <Gabi0559> fotito aca no
+[20:54:49] [Server thread/INFO]: [Not Secure] <MoldMai> reinicia rapido?
+[20:54:51] [Server thread/INFO]: [Not Secure] <MoldMai> reinicio
+[20:54:57] [Server thread/INFO]: [Not Secure] <Gabi0559> como gustes
+[20:55:04] [Server thread/INFO]: [Not Secure] <MoldMai> ok saca la foto y reinicio
+[20:55:17] [Server thread/INFO]: [Not Secure] <Gabi0559> crim...
+[20:55:17] [Server thread/INFO]: [Not Secure] <MoldMai> ...
+[20:55:20] [Server thread/INFO]: [Not Secure] <Gabi0559> la galleta...
+[20:55:31] [Server thread/INFO]: [Not Secure] <Gabi0559> bro
+[20:55:32] [Server thread/INFO]: [Not Secure] <cr1mzu> que dice
+[20:55:34] [Server thread/INFO]: [Not Secure] <Gabi0559> al lado de moldai
+[20:55:35] [Server thread/INFO]: [Not Secure] <MoldMai> aca
+[20:55:36] [Server thread/INFO]: [Not Secure] <Gabi0559> o al medio
+[20:55:45] [Server thread/INFO]: [Not Secure] <MoldMai> ah
+[20:55:46] [Server thread/INFO]: [Not Secure] <Gabi0559> pero
+[20:55:47] [Server thread/INFO]: [Not Secure] <MoldMai> no tenes el rp
+[20:55:49] [Server thread/INFO]: [Not Secure] <Gabi0559> ahh
+[20:55:52] [Server thread/INFO]: [Not Secure] <cr1mzu> lo tengo
+[20:55:53] [Server thread/INFO]: [Not Secure] <Gabi0559> ponete el rp
+[20:56:01] [Server thread/INFO]: [Not Secure] <MoldMai> ves el poster?
+[20:56:05] [Server thread/INFO]: [Not Secure] <Gabi0559> ok ponete exactamente donde estoy yo
+[20:56:08] [Server thread/INFO]: [Not Secure] <Gabi0559> arriba mio
+[20:56:12] [Server thread/INFO]: [Not Secure] <Gabi0559> en el mismo bloque
+[20:56:52] [Server thread/INFO]: [Not Secure] <Gabi0559> ta
+[20:56:57] [Server thread/INFO]: [Not Secure] <MoldMai> reinicio rapido 5m
+[20:57:01] [Server thread/INFO]: MoldMai lost connection: Disconnected
+[20:57:01] [Server thread/INFO]: MoldMai left the game
+[20:57:07] [Server thread/INFO]: MoldMai[/127.149.195.50:44321] logged in with entity id 79 at (10.575440527823462, 164.0, -41.65336052200711)
+[20:57:07] [Server thread/INFO]: MoldMai joined the game
+[20:57:16] [Server thread/INFO]: [Not Secure] <MoldMai> na
+[20:57:19] [Server thread/INFO]: [Not Secure] <MoldMai> ok reset de lleno
+[20:57:21] [Server thread/INFO]: MoldMai lost connection: Disconnected
+[20:57:21] [Server thread/INFO]: MoldMai left the game
+[20:57:29] [Server thread/INFO]: [Not Secure] <cr1mzu> toy linda?
+[20:57:42] [Server thread/INFO]: [Not Secure] <Gabi0559> si pero es muy parecida a tu skin normal
+[20:57:46] [Server thread/INFO]: [Not Secure] <Gabi0559> tendrias q haber sido elfa verde
+[20:57:50] [Server thread/INFO]: [Not Secure] <cr1mzu> antes dije que s epareceria
+[20:57:53] [Server thread/INFO]: [Not Secure] <Gabi0559> a
+[20:58:00] [Server thread/INFO]: [Not Secure] <cr1mzu> y eso que use un color pastel
+[20:58:09] [Server thread/INFO]: [Not Secure] <cr1mzu> el color oiginal era igualito a mi skin base
+[20:58:45] [Server thread/INFO]: [Not Secure] <cr1mzu> pero tengo unas colitas navideñas
+[20:58:50] [Server thread/INFO]: [Not Secure] <cr1mzu> siempre algo original en el pelo
